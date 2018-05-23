@@ -1,6 +1,6 @@
 # Tsedale T. Shiferaw
 
-##### Bellevue, WA |425 829-9405|, tsedaletad@gmail.com, https://github.com/Tsedale/,https://www.linkedin.com/in/tsedale-shiferaw-0a98622162
+##### Bellevue, WA |425 829-9405|, tsedaletad@gmail.com, https://github.com/Tsedale/, https://www.linkedin.com/in/tsedale-shiferaw-0a98622162
 
 
 I have more than ten years work experiences in different IT related positions. I have worked as SQL Developer, Network Administrator and Data Analyst. I have hands on experience in writing SQL script, developing SSRS/ Power BI/ Excel reports and ETL Package.
